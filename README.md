@@ -1,2 +1,4 @@
-# Fb---clon.py.
-fb clon tol
+apt update
+apt upgaret
+Pkg insttal
+Pkg upgrate
